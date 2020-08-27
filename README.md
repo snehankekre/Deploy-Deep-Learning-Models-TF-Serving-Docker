@@ -36,7 +36,7 @@ model.compile(loss='categorical_crossentropy',
 ```python
 >> test_sentence = "horrible book, waste of time"
 >> model.predict([test_sentence])
-[0.09629067  0.02980554  0.87390379]
+[0.87390379  0.02980554  0.09629067]
 ```
 
 #### Positive Review
