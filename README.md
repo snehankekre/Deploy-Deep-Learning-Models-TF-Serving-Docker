@@ -1,4 +1,4 @@
-# Deploy-Deep-Learning-Models-TF-Serving-Docker
+# Deploy Deep Learning Models with TensorFlow Serving and Docker
 Official repository of [TensorFlow Serving with Docker for Model Deployment](https://www.coursera.org/projects/tensorflow-serving-docker-model-deployment) Coursera Project
 
 ### Data Set
