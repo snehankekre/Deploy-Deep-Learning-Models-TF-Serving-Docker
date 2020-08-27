@@ -135,7 +135,7 @@ Enter an Amazon review [:q for Quit]
 horrible book, waste of time
 
 The model predicted ...
-[0.09629067  0.02980554  0.87390379]
+[0.87390379  0.02980554  0.09629067]
 
 Enter an Amazon review [:q for Quit]
 Awesome product. Loved it! :D
