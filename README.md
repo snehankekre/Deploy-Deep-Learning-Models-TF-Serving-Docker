@@ -145,5 +145,4 @@ The model predicted ...
 
 Enter an Amazon review [:q for Quit]
 :q
-
 ```
