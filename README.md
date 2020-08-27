@@ -2,7 +2,7 @@
 Official repository of [TensorFlow Serving with Docker for Model Deployment](https://www.coursera.org/projects/tensorflow-serving-docker-model-deployment) Coursera Project
 
 ### Data Set
-The dataset for [TensorFlow Serving with Docker for Model Deployment](https://www.coursera.org/projects/tensorflow-serving-docker-model-deployment) are available [here](https://drive.google.com/file/d/14v42um2VRAfQPfGnBJ4QzOie4VZOPK_F/view?usp=sharing). It is assumed that the contents of the uncompressed file (`train.csv`, `test.csv`) are saved in the sample folder as `train.py` file.
+The dataset for [TensorFlow Serving with Docker for Model Deployment](https://www.coursera.org/projects/tensorflow-serving-docker-model-deployment) is available [here](https://drive.google.com/file/d/14v42um2VRAfQPfGnBJ4QzOie4VZOPK_F/view?usp=sharing). It is assumed that the contents of the uncompressed file (`train.csv`, `test.csv`) are saved in the sample folder as `train.py` file.
 
 
 ### Getting Started
