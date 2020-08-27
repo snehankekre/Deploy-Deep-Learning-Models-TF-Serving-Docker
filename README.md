@@ -128,7 +128,7 @@ if __name__ == '__main__':
 $ python3 tf_serving_grpc_client.py
 ```
 
-```python
+```
 Create RPC connection ...
 
 Enter an Amazon review [:q for Quit]
